@@ -16,7 +16,7 @@ Projeto demo java web servlet 3.1
 * Abra o arquivo **pom.xml** e altere a propriedade **deploy.path** para o caminho de instalação do seu Apache Tomcat
 * Abra o prompt de comando e entre no diretório do projeto
 * Rode o comando **mvn clean compile war:exploded**
-* Entre na pasta **bin** do diretório de instalação do Apache Tomcat*
+* Ainda no prompt de comando, entre na pasta **bin** do diretório de instalação do Apache Tomcat
 * Para windows rode o comando:  **startup.bat** / linux: **sh startup.sh**
 * Para acessar o app, abra o browser e informe a url **http://localhost:8080/java-web-sample**
 * Para parar o servidor, rode o comando **shutdown.bat** no windows / linux: **sh shutdown.sh**
