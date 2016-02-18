@@ -18,7 +18,7 @@ Projeto demo java web servlet 3.1
 6. Rode o comando **mvn clean compile war:exploded** e aguarde o maven compilar e realizar o deploy do seu war explodido
 7. Certifique-se que a aplicação foi copiada para a pasta **webapps** do diretório de instalação do seu Apache Tomcat 
 8. Ainda no prompt de comando, entre na pasta **bin** do diretório de instalação do Apache Tomcat
-9. Para windows rode o comando:  **startup.bat** / linux: **sh startup.sh**
-10. Para acessar o app, abra o browser e informe a url **http://localhost:8080/java-web-sample**
-11. Para parar o servidor, rode o comando **shutdown.bat** no windows / linux: **sh shutdown.sh**
+9. Para iniciar o servidor, no windows rode o comando: **startup.bat** / linux: **sh startup.sh**
+10. Para acessar a aplicação, abra o browser e informe a url **http://localhost:8080/java-web-sample**
+11. Para parar o servidor, no windows rode o comando **shutdown.bat** / linux: **sh shutdown.sh**
 
